@@ -1,0 +1,16 @@
+.header {
+    background-color: #f7e70a;
+border: solid;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+
+body{
+    background-color: aqua;
+    
+}
+
+.site-description{
+    border: solid;
+}
